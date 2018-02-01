@@ -1,4 +1,5 @@
 git log 
 git init 
 git diff
-git  branch  
+git  branch
+git status  
